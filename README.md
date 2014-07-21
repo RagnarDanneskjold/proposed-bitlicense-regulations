@@ -650,3 +650,5 @@ All values in United States dollars referenced herein must be calculated using t
 A Person already engaged in Virtual Currency Business Activity must apply for a license in accordance with this Part within 45 days of the effective date of this regulation. In doing so, such applicant shall be deemed in compliance with the licensure requirements of this Part until it has been notified by the superintendent that its application has been denied, in which case it shall immediately cease operation in this state. Any Person engaged in Virtual Currency Business Activity that fails to submit an application for a license within 45 days of the effective date of this regulation shall be deemed to be conducting unlicensed Virtual Currency Business Activity.
 
 *Statutory authority: Financial Services Law, sections 202, 206, 302, 303, 305, 306, 309, 404, and 408; Executive Law, section 63.*
+
+The provisions of this act are declared to be nonseverable. If any provision of this act or the application thereof to any person or circumstances is held invalid, the remaining provisions or applications of this act shall be void.
